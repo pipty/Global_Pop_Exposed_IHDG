@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the published article."
+title: "Billions of people exposed to increasing heat but decreasing greenness from 2000 to 2022"
+type: article
+authors:
+  - family-names: Ye
+    given-names: Tingting
+  - family-names: Xu
+    given-names: Rongbin
+  - family-names: Huang
+    given-names: Wenzhong
+  - family-names: Yang
+    given-names: Zhengyu
+  - family-names: Yu
+    given-names: Pei
+  - family-names: Yu
+    given-names: Wenhua
+  - family-names: Liu
+    given-names: Yanming
+  - family-names: Wu
+    given-names: Yao
+  - family-names: Wen
+    given-names: Bo
+  - family-names: Zhang
+    given-names: Yiwen
+  - family-names: Hart
+    given-names: Jaime E.
+  - family-names: Nieuwenhuijsen
+    given-names: Mark
+  - family-names: Abramson
+    given-names: Michael J.
+  - family-names: Guo
+    given-names: Yuming
+  - family-names: Li
+    given-names: Shanshan
+doi: 10.1016/j.xinn.2025.100870
+journal: "The Innovation"
+date-published: 2025-03-07
+url: "https://doi.org/10.1016/j.xinn.2025.100870"
